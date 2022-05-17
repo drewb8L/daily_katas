@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="337615c1-4b48-4a62-93b7-f78ac0b2c932" name="Changes" comment="" />
+    <list default="true" id="337615c1-4b48-4a62-93b7-f78ac0b2c932" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +42,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/spec" />
     </key>
   </component>
@@ -348,7 +351,7 @@
       <workItem from="1650934561083" duration="336000" />
       <workItem from="1651067723348" duration="6743000" />
       <workItem from="1652793229085" duration="8270000" />
-      <workItem from="1652820144917" duration="3740000" />
+      <workItem from="1652820144917" duration="4360000" />
     </task>
     <servers />
   </component>
